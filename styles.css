@@ -17,6 +17,23 @@ h3, p {
     margin: 10px;
 }
 
+h3 {
+    font-size: 13px;
+}
+
+code {
+    background-color: #434547;
+    color: white;
+    padding: 2px;
+    margin: 1px;
+}
+
+div.text {
+    margin: auto;
+    text-align: left;
+    width: 400px;
+}
+
 img#lines {
     border-radius: 10px;
     margin: 20px;
