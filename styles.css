@@ -1,0 +1,55 @@
+html, body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    margin: auto;
+}
+
+hr {
+    border: 1px solid #eaecef;
+    width: 300px;
+}
+
+div {
+    text-align: center;
+}
+
+h3, p {
+    margin: 10px;
+}
+
+img#lines {
+    border-radius: 10px;
+    margin: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 350px;
+}
+
+img#typer {
+    margin-left: 7px;
+}
+
+img#foots {
+    margin-right: 10px;
+    height: 500px;
+}
+
+.container {
+    display: block;
+}
+
+a:visited {
+    color: #e34a33;
+}
+
+a:link {
+    color: #8856a7;
+}
+
+a:hover {
+    color: #9ebcda;
+}
+
+a:active {
+    color: #31a354;
+}
