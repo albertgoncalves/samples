@@ -22,16 +22,17 @@ h3 {
 }
 
 code {
-    background-color: #434547;
-    color: white;
+    background-color: #adf7d4;
+    color: #26201d;
     padding: 2px;
     margin: 1px;
+    font-weight: bold;
 }
 
 div.text {
     margin: auto;
     text-align: left;
-    width: 400px;
+    width: 425px;
 }
 
 img#lines {
