@@ -22,16 +22,17 @@ img#lines {
     margin: 20px;
     margin-top: 5px;
     margin-bottom: 5px;
-    width: 350px;
+    width: 250px;
 }
 
 img#typer {
     margin-left: 7px;
+    width: 350px;
 }
 
 img#foots {
     margin-right: 10px;
-    height: 500px;
+    height: 450px;
 }
 
 .container {
