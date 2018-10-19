@@ -32,7 +32,7 @@ code {
 div.text {
     margin: auto;
     text-align: left;
-    width: 425px;
+    width: 450px;
 }
 
 img#lines {
@@ -51,6 +51,20 @@ img#typer {
 img#foots {
     margin-right: 10px;
     height: 450px;
+}
+
+img#sanks {
+    height: 400px;
+}
+
+img#scrapes {
+    border-radius: 10px;
+}
+
+.crop {
+    margin: 15px auto;
+    height: 265px;
+    overflow: hidden;
 }
 
 .container {
