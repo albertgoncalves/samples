@@ -39,6 +39,16 @@ div.text {
     width: 450px;
 }
 
+img#neurals {
+    height: 275px;
+}
+
+.crop-neural {
+    margin: 15px auto;
+    height: 270px;
+    overflow: hidden;
+}
+
 img#lines {
     border-radius: 10px;
     margin: 20px;
@@ -66,7 +76,7 @@ img#scrapes {
     width: 400px;
 }
 
-.crop {
+.crop-scrapes {
     margin: 15px auto;
     height: 222px;
     overflow: hidden;
